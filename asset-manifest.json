@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Stripe-React/static/css/main.19017091.css",
+    "main.js": "/Stripe-React/static/js/main.304853e7.js",
+    "static/media/bmw-landscape.png": "/Stripe-React/static/media/bmw-landscape.baf8173cdbbe0fd3db86.png",
+    "static/media/istockphoto.mp4": "/Stripe-React/static/media/istockphoto.ecdb706850aadbf1e975.mp4",
+    "static/media/home-enterprise-twilio.png": "/Stripe-React/static/media/home-enterprise-twilio.84367cde03320ef391c1.png",
+    "static/media/home-enterprise-amazon-portrait.png": "/Stripe-React/static/media/home-enterprise-amazon-portrait.ef719f49e14ffa57d313.png",
+    "static/media/aqueous-abstract-art-vg-1600x1200.jpg": "/Stripe-React/static/media/aqueous-abstract-art-vg-1600x1200.7175bc6d758727961db4.jpg",
+    "static/media/home-enterprise-maersk-portrait.png": "/Stripe-React/static/media/home-enterprise-maersk-portrait.2540767ee0bcc8b12c15.png",
+    "static/media/code1.png": "/Stripe-React/static/media/code1.b308f9dbaa193f946b65.png",
+    "static/media/download.png": "/Stripe-React/static/media/download.3214899f27d610c3877a.png",
+    "static/media/9tU4YP-removebg-preview.png": "/Stripe-React/static/media/9tU4YP-removebg-preview.e3d1a6e8e1aa8a545e8b.png",
+    "static/media/Amazon-Logo.png": "/Stripe-React/static/media/Amazon-Logo.a99e647c09e770eba877.png",
+    "static/media/Fintech.jpg": "/Stripe-React/static/media/Fintech.a7178afc723aae7c6249.jpg",
+    "static/media/WhatsApp-Emblem.png": "/Stripe-React/static/media/WhatsApp-Emblem.04ec6d07d017d01c2b11.png",
+    "static/media/chipper-img2.webp": "/Stripe-React/static/media/chipper-img2.282a100c6f2e82983b45.webp",
+    "static/media/BMW-white.png": "/Stripe-React/static/media/BMW-white.546d9e249f63c028a57d.png",
+    "static/media/stripe-logo2.png": "/Stripe-React/static/media/stripe-logo2.71b78958a7f2fe35379f.png",
+    "static/media/amazon-white.png": "/Stripe-React/static/media/amazon-white.2b695c87638e004d2dd9.png",
+    "static/media/urbn.png": "/Stripe-React/static/media/urbn.e5dc89ab3f36bae71379.png",
+    "static/media/chipper-img.webp": "/Stripe-React/static/media/chipper-img.c6bd5532498226a85a79.webp",
+    "static/media/buttons.svg": "/Stripe-React/static/media/buttons.de21d7aad81f576e0cad20ca09817aa0.svg",
+    "static/media/stripe-logo.png": "/Stripe-React/static/media/stripe-logo.3c731c91a788fa24d2c9.png",
+    "static/media/atlas_home_rocketrides_Latin_English__United_States_.png": "/Stripe-React/static/media/atlas_home_rocketrides_Latin_English__United_States_.649a0853883140f20be6.png",
+    "static/media/twilio-white.png": "/Stripe-React/static/media/twilio-white.ecbd6bee724c8f76cf98.png",
+    "static/media/build_with_stripe.svg": "/Stripe-React/static/media/build_with_stripe.f9a8f25eb5ee2e09b9e914983aeacbe9.svg",
+    "index.html": "/Stripe-React/index.html",
+    "main.19017091.css.map": "/Stripe-React/static/css/main.19017091.css.map",
+    "main.304853e7.js.map": "/Stripe-React/static/js/main.304853e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19017091.css",
+    "static/js/main.304853e7.js"
+  ]
+}
