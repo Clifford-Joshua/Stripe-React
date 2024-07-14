@@ -555,9 +555,10 @@ nav {
   padding-top: 30px;
 }
 .startnow {
-  padding: 8px 18px;
   color: white;
+  cursor: pointer;
   font-weight: bold;
+  padding: 8px 18px;
   border-radius: 18px;
   text-decoration: none;
   background-color: #1c244d;
@@ -1403,7 +1404,8 @@ nav {
   color: white;
   padding-left: 10px;
 }
-.main-slant-footer div img {
+.main-slant-footer div img,
+.Always img {
   width: 60px;
   height: 50px;
 }
@@ -1489,4 +1491,98 @@ nav {
 }
 .high:hover {
   color: black;
+}
+/* =====Readyyy===== */
+.Ready-section {
+  width: 100%;
+  height: 70vh;
+  position: relative;
+  background-color: lightgrey;
+}
+.Ready-slant {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  padding: 50px 200px;
+  background-color: #eff3f9;
+  grid-template-columns: repeat(3, 1fr);
+  clip-path: polygon(0 0, 100% 0, 100% 76%, 0% 100%);
+}
+.Always {
+  height: 250px;
+  padding-left: 5px;
+  padding-right: 25px;
+}
+.Always p {
+  color: gray;
+  font-weight: 500;
+  padding: 10px 0;
+}
+.none {
+  font-size: 16px;
+  border: none;
+  background-color: transparent;
+}
+.Ready {
+  width: 590px;
+  height: 250px;
+  padding: 0 50px;
+}
+.Ready p {
+  color: gray;
+  padding: 25px 0;
+  font-size: 18px;
+  font-weight: 600;
+  padding-right: 150px;
+}
+.Rsmall-slant {
+  left: 0;
+  top: 68%;
+  z-index: 2;
+  width: 300px;
+  height: 160px;
+  position: absolute;
+  background-color: #3f35fcb9;
+  clip-path: polygon(0 73%, 100% 57%, 100% 83%, 0 97%);
+}
+.Rsmaller-slant {
+  left: 3%;
+  top: 71%;
+  width: 180px;
+  height: 140px;
+  position: absolute;
+  background-color: rgb(1, 235, 235);
+  clip-path: polygon(0 51%, 100% 38%, 100% 68%, 0 79%);
+}
+.Rsmall-slant-bottom {
+  right: 0;
+  bottom: 14%;
+  width: 300px;
+  height: 160px;
+  position: absolute;
+  background-color: rgb(1, 235, 235);
+  clip-path: polygon(0 56%, 100% 38%, 100% 70%, 0 85%);
+}
+.Rsmaller-slant-bottom {
+  right: 3%;
+  bottom: 8%;
+  width: 180px;
+  height: 140px;
+  position: absolute;
+  background-color: #3f35fcb9;
+  clip-path: polygon(0 48%, 100% 34%, 100% 62%, 0 76%);
+}
+.Footer {
+  width: 100%;
+  height: 25vh;
+  display: flex;
+  font-size: 24px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: lightgrey;
+}
+.Footer img {
+  width: 200px;
+  height: 100px;
 }

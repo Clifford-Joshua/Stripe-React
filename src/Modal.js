@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef } from "react";
 import { useGlobalContent } from "./content";
 import { FaArrowRight } from "react-icons/fa";
 import { LuDot } from "react-icons/lu";

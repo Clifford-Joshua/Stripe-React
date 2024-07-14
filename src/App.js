@@ -9,6 +9,8 @@ import Slider from "./slider";
 import Built from "./Built";
 import Designed from "./Designed";
 import Lunch from "./Lunch";
+import Ready from "./Ready";
+import Footer from "./Footer";
 const App = () => {
   return (
     <section className="General-section">
@@ -24,6 +26,8 @@ const App = () => {
       <Built />
       <Designed />
       <Lunch />
+      <Ready />
+      <Footer />
     </section>
   );
 };
