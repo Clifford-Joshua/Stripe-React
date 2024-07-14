@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Stripe-React/static/css/main.19017091.css",
-    "main.js": "/Stripe-React/static/js/main.304853e7.js",
+    "main.css": "/Stripe-React/static/css/main.d97689cc.css",
+    "main.js": "/Stripe-React/static/js/main.ea793dac.js",
     "static/media/bmw-landscape.png": "/Stripe-React/static/media/bmw-landscape.baf8173cdbbe0fd3db86.png",
     "static/media/istockphoto.mp4": "/Stripe-React/static/media/istockphoto.ecdb706850aadbf1e975.mp4",
     "static/media/home-enterprise-twilio.png": "/Stripe-React/static/media/home-enterprise-twilio.84367cde03320ef391c1.png",
@@ -26,11 +26,11 @@
     "static/media/twilio-white.png": "/Stripe-React/static/media/twilio-white.ecbd6bee724c8f76cf98.png",
     "static/media/build_with_stripe.svg": "/Stripe-React/static/media/build_with_stripe.f9a8f25eb5ee2e09b9e914983aeacbe9.svg",
     "index.html": "/Stripe-React/index.html",
-    "main.19017091.css.map": "/Stripe-React/static/css/main.19017091.css.map",
-    "main.304853e7.js.map": "/Stripe-React/static/js/main.304853e7.js.map"
+    "main.d97689cc.css.map": "/Stripe-React/static/css/main.d97689cc.css.map",
+    "main.ea793dac.js.map": "/Stripe-React/static/js/main.ea793dac.js.map"
   },
   "entrypoints": [
-    "static/css/main.19017091.css",
-    "static/js/main.304853e7.js"
+    "static/css/main.d97689cc.css",
+    "static/js/main.ea793dac.js"
   ]
 }
